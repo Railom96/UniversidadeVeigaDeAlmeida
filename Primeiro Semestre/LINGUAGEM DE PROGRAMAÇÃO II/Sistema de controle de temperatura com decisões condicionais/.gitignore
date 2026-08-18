@@ -1,0 +1,9 @@
+# Arquivos gerados pela compilação em C
+controle_temperatura
+*.o
+*.out
+
+# Arquivos temporários de editores e do sistema
+*~
+.vscode/
+.DS_Store
