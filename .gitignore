@@ -1,0 +1,46 @@
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Arquivos temporários e de bloqueio do LibreOffice/Microsoft Office
+.~lock.*#
+~$*
+
+# Arquivos auxiliares locais das atividades
+**/LEIA-ME.txt
+
+# Versões editáveis de documentos; os PDFs finais permanecem versionáveis
+*.odt
+*.docx
+*.odp
+*.pptx
+
+# Fontes intermediárias usadas somente para gerar entregas acadêmicas
+Primeiro Semestre/MODELAGEM DE SISTEMAS/Atividade_2_Levantamento_de_Requisitos/atividade_levantamento_requisitos.html
+Primeiro Semestre/MODELAGEM DE SISTEMAS/Atividade_2_Levantamento_de_Requisitos/gerar_documento.py
+
+# Artefatos de compilação e execução
+*.o
+*.obj
+*.out
+*.exe
+*.class
+
+# Cache, cobertura e ambientes locais
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+coverage/
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.*
+!.env.example

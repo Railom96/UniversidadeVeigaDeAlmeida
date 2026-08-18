@@ -1,5 +1,9 @@
 # Universidade Veiga de Almeida
 
+**Aluno:** Israel Messias Gomes Moreira  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Instituição:** Universidade Veiga de Almeida
+
 Este repositório foi criado para registrar os projetos, exercícios e atividades
 desenvolvidos ao longo da minha trajetória acadêmica na Universidade Veiga de
 Almeida.
